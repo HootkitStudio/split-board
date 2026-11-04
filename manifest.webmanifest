@@ -1,0 +1,32 @@
+{
+  "background_color": "#FAF9F6",
+  "description": "BusinessとPrivate、2つのボードで予定・リマインダー・出勤を分けて管理するカレンダー",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "192x192",
+      "src": "icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon-maskable-512.png",
+      "type": "image/png"
+    }
+  ],
+  "lang": "ja",
+  "name": "Split-Board",
+  "orientation": "portrait",
+  "scope": "./",
+  "short_name": "Split-Board",
+  "start_url": "./",
+  "theme_color": "#26262B"
+}
